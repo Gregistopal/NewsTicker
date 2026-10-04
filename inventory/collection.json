@@ -1,0 +1,38 @@
+{
+  "CollectionDate": "2026-10-02",
+  "VerifiedAtUtc": "2026-10-02T23:12:02.4773320Z",
+  "DestinationRoot": "C:\\Users\\caleb\\OneDrive\\Documents\\1Coding Projects\\NewsTicker",
+  "Searched": [
+    "C:\\Users\\caleb\\Downloads (recursive filename search)",
+    "C:\\Users\\caleb\\OneDrive\\Documents\\1Coding Projects\\NewsTicker (initially empty)"
+  ],
+  "SearchPattern": "news[\\s_-]*ticker (case insensitive)",
+  "BroaderUserFolderSearch": "Not performed: permission was declined.",
+  "SourceHandling": "Copied. Originals left in place.",
+  "VersionCount": 10,
+  "Versions": [
+    "1.0.0",
+    "1.0.1",
+    "1.0.2",
+    "1.0.3",
+    "1.0.4",
+    "1.0.5",
+    "1.0.6",
+    "1.0.7",
+    "1.1.0",
+    "1.1.1"
+  ],
+  "ItemCount": 22,
+  "FileCount": 3912,
+  "TotalBytes": 428870978.0,
+  "AllCopiesVerified": true,
+  "IdenticalArchives": [
+    {
+      "SHA256": "2D05D6CAF2E866484F259E51429C5541B77D66E39A22C8DCE7347A91322F121D",
+      "Items": [
+        "versions\\1.1.1\\archives\\NewsTicker-1.1.1-Windows (1).zip",
+        "versions\\1.1.1\\archives\\NewsTicker-1.1.1-Windows.zip"
+      ]
+    }
+  ]
+}
