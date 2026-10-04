@@ -1,0 +1,11 @@
+NewsTicker includes the official Python 3.13.15 embeddable runtime for
+Windows. Its license is included at runtime/LICENSE.txt.
+
+Bundled Python packages and their upstream licenses are recorded in each
+runtime/vendor/*.dist-info directory. Principal packages are aiohttp (Apache
+License 2.0), aiosignal (Apache License 2.0), and their MIT-licensed runtime
+dependencies.
+
+The Windows launcher was built with MinGW-w64 and GCC. GCC runtime libraries
+are distributed under the GCC Runtime Library Exception. Corresponding
+launcher source is included in native/launcher.cpp.
