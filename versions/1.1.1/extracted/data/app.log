@@ -1,0 +1,19 @@
+2026-09-25 21:47:48,623 INFO NewsTicker 1.1.1 started on 127.0.0.1:18770
+2026-09-25 23:14:33,592 INFO NewsTicker stopped
+2026-09-25 23:34:02,049 INFO NewsTicker 1.1.1 started on 127.0.0.1:18770
+2026-09-26 11:14:49,760 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-26 11:14:53,800 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-26 11:14:59,840 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-26 11:15:09,862 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-26 11:15:28,850 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-26 11:15:45,890 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-26 11:16:02,954 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-26 11:16:19,981 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-26 11:16:37,018 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-26 11:16:54,073 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-26 11:17:11,100 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-26 11:17:28,137 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-26 11:17:45,172 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-26 11:18:02,211 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-26 11:18:19,265 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-26 11:18:24,996 INFO NewsTicker stopped

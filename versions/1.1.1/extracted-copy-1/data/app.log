@@ -1,0 +1,1729 @@
+2026-09-28 01:46:32,745 INFO NewsTicker 1.1.1 started on 127.0.0.1:18770
+2026-09-28 01:46:34,783 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 01:46:37,815 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 01:46:41,843 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 01:46:47,881 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 01:46:57,920 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 01:47:14,954 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 01:47:31,994 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 01:47:49,020 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 01:48:06,041 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 01:48:23,078 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 01:48:40,109 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 01:48:57,146 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 01:49:14,186 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 01:49:31,218 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 01:49:44,691 INFO NewsTicker stopped
+2026-09-28 20:32:16,819 INFO NewsTicker 1.1.1 started on 127.0.0.1:18770
+2026-09-28 20:32:18,846 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:32:21,870 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:32:25,899 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:32:31,913 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:32:41,944 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:32:58,967 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:33:16,022 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:33:33,042 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:33:50,085 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:34:07,116 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:34:24,150 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:34:41,195 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:34:58,217 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:35:15,244 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:35:32,263 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:35:49,299 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:36:06,335 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:36:23,352 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:36:40,385 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:36:57,400 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:37:14,420 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:37:31,443 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:37:48,474 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:38:05,509 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:38:22,540 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:38:39,579 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:38:56,619 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:39:13,639 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:39:30,676 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:39:47,699 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:40:04,725 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:40:21,759 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:40:38,787 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:40:55,822 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:41:12,857 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:41:29,876 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:41:46,907 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:42:03,946 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:42:20,982 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:42:38,020 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:42:55,053 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:43:12,071 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:43:29,095 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:43:46,116 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:44:03,149 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:44:20,167 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:44:37,200 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:44:54,222 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:45:11,248 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:45:28,267 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:45:45,281 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:46:02,322 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:46:19,359 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:46:36,380 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:46:53,443 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:47:10,472 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:47:27,502 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:47:44,536 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:48:01,577 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:48:18,603 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:48:35,631 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:48:52,662 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:49:09,687 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:49:26,717 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:49:43,762 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:50:00,792 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:50:17,824 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:50:34,866 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:50:51,891 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:51:08,930 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:51:25,970 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:51:42,988 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:52:00,022 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:52:17,063 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:52:34,083 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:52:51,101 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:53:08,117 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:53:25,150 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:53:42,180 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:53:59,224 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:54:16,243 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:54:33,265 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:54:50,301 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:55:07,352 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:55:24,387 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:55:41,414 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:55:58,451 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:56:15,483 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:56:32,517 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:56:49,562 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:57:06,597 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:57:23,624 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:57:40,650 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:57:57,686 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:58:14,730 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:58:31,749 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:58:48,770 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:59:05,820 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:59:22,856 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:59:39,902 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 20:59:56,933 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:00:13,988 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:00:31,042 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:00:48,081 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:01:05,101 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:01:22,119 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:01:39,154 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:01:56,195 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:02:13,233 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:02:30,270 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:02:47,312 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:03:04,349 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:03:21,378 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:03:38,415 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:03:55,437 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:04:12,474 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:04:29,509 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:04:46,545 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:05:03,585 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:05:20,611 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:05:37,639 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:05:54,662 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:06:11,707 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:06:28,743 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:06:45,781 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:07:02,815 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:07:19,848 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:07:36,880 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:07:48,390 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 21:07:53,914 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:08:10,940 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:08:27,958 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:08:44,996 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:09:02,012 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:09:19,037 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:09:36,058 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:09:50,323 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 21:09:53,086 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:10:10,137 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:10:27,149 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:10:44,183 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:11:01,223 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:11:18,273 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:11:35,312 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:11:52,224 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 21:11:52,333 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:12:09,365 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:12:26,397 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:12:43,416 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:13:00,448 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:13:17,485 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:13:34,511 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:13:51,550 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:13:55,636 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 21:14:08,586 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:14:25,624 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:14:42,644 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:14:59,694 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:15:16,720 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:15:33,740 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:15:50,787 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:16:00,295 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 21:16:07,828 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:16:24,855 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:16:41,883 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:16:58,910 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:17:15,929 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:17:32,956 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:17:50,006 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:18:03,665 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 21:18:07,037 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:18:24,066 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:18:41,097 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:18:58,127 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:19:15,167 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:19:32,189 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:19:49,230 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:20:06,248 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:20:08,201 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 21:20:23,269 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:20:40,308 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:20:57,321 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:21:14,355 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:21:31,375 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:21:48,404 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:22:05,448 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:22:10,001 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 21:22:22,475 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:22:39,501 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:22:56,521 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:23:13,553 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:23:30,585 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:23:47,613 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:24:04,654 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:24:11,957 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 21:24:21,672 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:24:38,694 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:24:55,713 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:25:12,745 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:25:29,770 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:25:46,819 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:26:03,860 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:26:15,522 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 21:26:20,894 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:26:37,927 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:26:54,959 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:27:11,998 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:27:29,029 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:27:46,045 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:28:03,081 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:28:20,063 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 21:28:20,095 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:28:37,129 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:28:54,173 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:29:11,204 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:29:28,251 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:29:45,278 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:30:02,301 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:30:19,333 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:30:23,558 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 21:30:36,371 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:30:53,395 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:31:10,451 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:31:27,490 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:31:44,505 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:32:01,535 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:32:18,575 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:32:25,385 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 21:32:35,596 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:32:52,628 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:33:09,654 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:33:26,687 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:33:43,705 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:34:00,728 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:34:17,755 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:34:30,021 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 21:34:34,786 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:34:51,819 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:35:08,845 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:35:25,859 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:35:42,874 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:35:59,906 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:36:16,925 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:36:31,834 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 21:36:33,963 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:36:50,975 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:37:08,006 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:37:25,031 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:37:42,055 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:37:59,074 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:38:16,105 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:38:33,140 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:38:36,518 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 21:38:50,200 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:39:07,241 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:39:24,262 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:39:41,294 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:39:58,342 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:40:15,373 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:40:32,398 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:40:40,075 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 21:40:49,421 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:41:06,450 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:41:23,480 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:41:40,513 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:41:57,561 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:42:14,583 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:42:31,623 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:42:44,709 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 21:42:48,655 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:43:05,680 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:43:22,723 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:43:39,755 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:43:56,782 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:44:13,821 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:44:30,857 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:44:46,507 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 21:44:47,890 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:45:04,915 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:45:21,958 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:45:38,982 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:45:56,002 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:46:13,022 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:46:30,055 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:46:47,085 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:46:50,037 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 21:47:04,120 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:47:21,153 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:47:38,200 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:47:55,240 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:48:12,280 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:48:29,330 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:48:46,362 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:48:51,962 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 21:49:03,399 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:49:20,425 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:49:37,466 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:49:54,490 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:50:11,516 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:50:28,542 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:50:45,577 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:50:55,514 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 21:51:02,610 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:51:19,651 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:51:36,681 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:51:53,730 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:52:10,763 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:52:27,791 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:52:44,825 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:53:00,066 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 21:53:01,855 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:53:18,886 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:53:35,930 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:53:52,957 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:54:09,983 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:54:27,022 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:54:44,051 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:55:01,078 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:55:03,568 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 21:55:18,121 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:55:35,158 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:55:52,187 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:56:09,235 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:56:26,278 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:56:43,301 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:57:00,329 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:57:05,397 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 21:57:17,355 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:57:34,393 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:57:51,447 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:58:08,476 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:58:25,501 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:58:42,518 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:58:59,548 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:59:10,025 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 21:59:16,581 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:59:33,609 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 21:59:50,637 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:00:07,672 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:00:24,689 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:00:41,722 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:00:58,754 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:01:13,472 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:01:15,786 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:01:32,816 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:01:49,842 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:02:06,895 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:02:23,931 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:02:40,972 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:02:58,008 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:03:15,042 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:03:17,989 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:03:32,071 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:03:49,098 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:04:06,125 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:04:23,174 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:04:40,236 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:04:57,263 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:05:14,301 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:05:19,942 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:05:31,329 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:05:48,353 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:06:05,394 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:06:22,436 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:06:39,466 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:06:56,488 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:07:13,509 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:07:24,486 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:07:30,544 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:07:47,589 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:08:04,626 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:08:21,666 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:08:38,697 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:08:55,719 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:09:12,760 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:09:28,058 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:09:29,789 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:09:46,828 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:10:03,851 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:10:20,897 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:10:37,943 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:10:54,997 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:11:12,026 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:11:29,056 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:11:29,984 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:11:46,073 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:12:03,116 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:12:20,151 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:12:37,183 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:12:54,235 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:13:11,263 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:13:28,289 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:13:33,425 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:13:45,341 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:14:02,379 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:14:19,404 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:14:36,440 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:14:53,471 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:15:10,502 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:15:27,519 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:15:37,922 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:15:44,553 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:16:01,578 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:16:18,624 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:16:35,652 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:16:52,702 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:17:09,742 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:17:26,770 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:17:39,818 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:17:43,820 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:18:00,855 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:18:17,911 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:18:34,949 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:18:52,000 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:19:09,039 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:19:26,070 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:19:43,090 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:19:43,389 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:20:00,122 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:20:17,145 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:20:34,171 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:20:51,208 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:21:08,253 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:21:25,284 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:21:42,311 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:21:47,893 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:21:59,349 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:22:16,380 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:22:33,402 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:22:50,431 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:23:07,468 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:23:24,500 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:23:41,543 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:23:49,795 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:23:58,575 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:24:15,592 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:24:32,625 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:24:49,638 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:25:06,652 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:25:23,703 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:25:40,734 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:25:53,327 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:25:57,755 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:26:14,787 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:26:31,816 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:26:48,847 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:27:05,880 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:27:22,920 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:27:39,947 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:27:55,148 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:27:56,986 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:28:14,052 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:28:31,095 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:28:48,120 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:29:05,161 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:29:22,196 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:29:39,234 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:29:56,251 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:29:59,741 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:30:13,297 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:30:30,319 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:30:47,353 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:31:04,374 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:31:21,397 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:31:38,430 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:31:55,472 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:32:01,609 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:32:12,493 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:32:29,525 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:32:46,563 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:33:03,599 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:33:20,632 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:33:37,655 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:33:54,696 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:34:05,036 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:34:11,730 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:34:28,750 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:34:45,783 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:35:02,815 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:35:19,843 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:35:36,888 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:35:53,918 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:36:09,622 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:36:10,947 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:36:27,972 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:36:44,985 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:37:02,011 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:37:19,036 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:37:36,060 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:37:53,092 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:38:10,112 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:38:11,547 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:38:27,163 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:38:44,202 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:39:01,249 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:39:18,282 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:39:35,312 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:39:52,333 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:40:09,360 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:40:15,043 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:40:26,386 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:40:43,410 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:41:00,450 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:41:17,490 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:41:34,506 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:41:51,537 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:42:08,567 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:42:19,529 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:42:25,597 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:42:42,617 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:42:59,632 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:43:16,670 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:43:33,707 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:43:50,729 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:44:07,767 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:44:23,003 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:44:24,814 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:44:41,845 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:44:58,899 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:45:15,926 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:45:32,961 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:45:49,992 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:46:07,031 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:46:24,063 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:46:27,512 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:46:41,110 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:46:58,152 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:47:15,194 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:47:32,216 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:47:49,247 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:48:06,281 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:48:23,307 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:48:29,311 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:48:40,337 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:48:57,386 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:49:14,407 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:49:31,451 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:49:48,460 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:50:05,498 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:50:22,536 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:50:31,205 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:50:39,562 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:50:56,598 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:51:13,629 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:51:30,661 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:51:47,691 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:52:04,732 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:52:21,762 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:52:35,834 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:52:38,799 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:52:55,833 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:53:12,857 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:53:29,890 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:53:46,935 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:54:03,964 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:54:21,000 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:54:38,024 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:54:39,229 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:54:55,043 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:55:12,075 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:55:29,092 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:55:46,122 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:56:03,151 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:56:20,169 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:56:37,219 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:56:43,738 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:56:54,261 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:57:11,298 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:57:28,339 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:57:45,362 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:58:02,405 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:58:19,426 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:58:36,476 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:58:47,237 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 22:58:53,497 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:59:10,537 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:59:27,566 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 22:59:44,602 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:00:01,625 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:00:18,666 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:00:35,683 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:00:49,188 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:00:52,729 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:01:09,749 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:01:26,777 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:01:43,819 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:02:00,837 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:02:17,859 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:02:34,901 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:02:51,933 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:02:53,822 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:03:08,963 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:03:25,984 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:03:43,023 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:04:00,053 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:04:17,109 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:04:34,144 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:04:51,189 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:04:55,665 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:05:08,208 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:05:25,234 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:05:42,272 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:05:59,307 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:06:16,327 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:06:33,362 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:06:50,405 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:06:59,240 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:07:07,429 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:07:24,464 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:07:41,482 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:07:58,523 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:08:15,557 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:08:32,583 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:08:49,614 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:09:01,058 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:09:06,635 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:09:23,659 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:09:40,698 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:09:57,736 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:10:14,755 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:10:31,780 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:10:48,827 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:11:05,663 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:11:05,866 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:11:22,898 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:11:39,913 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:11:56,948 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:12:13,995 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:12:31,017 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:12:48,036 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:13:05,056 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:13:09,159 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:13:22,091 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:13:39,112 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:13:56,141 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:14:13,168 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:14:30,195 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:14:47,216 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:15:04,244 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:15:12,756 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:15:21,264 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:15:38,294 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:15:55,332 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:16:12,384 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:16:29,438 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:16:46,472 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:17:03,488 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:17:14,666 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:17:20,504 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:17:37,534 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:17:54,552 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:18:11,588 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:18:28,620 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:18:45,645 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:19:02,683 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:19:19,198 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:19:19,713 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:19:36,751 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:19:53,787 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:20:10,843 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:20:27,888 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:20:44,925 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:21:01,972 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:21:19,013 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:21:21,023 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:21:36,051 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:21:53,086 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:22:10,137 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:22:27,190 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:22:44,208 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:23:01,246 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:23:18,271 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:23:25,516 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:23:35,307 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:23:52,335 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:24:09,356 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:24:26,379 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:24:43,397 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:25:00,412 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:25:17,433 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:25:29,109 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:25:34,452 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:25:51,477 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:26:08,503 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:26:25,526 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:26:42,566 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:26:59,595 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:27:16,625 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:27:33,665 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:27:33,743 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:27:50,688 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:28:07,726 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:28:24,762 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:28:41,787 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:28:58,826 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:29:15,862 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:29:32,888 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:29:37,136 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:29:49,915 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:30:06,938 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:30:23,968 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:30:40,996 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:30:58,026 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:31:15,053 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:31:32,090 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:31:38,945 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:31:49,115 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:32:06,146 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:32:23,177 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:32:40,220 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:32:57,247 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:33:14,284 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:33:31,311 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:33:42,495 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:33:48,346 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:34:05,382 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:34:22,405 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:34:39,457 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:34:56,480 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:35:13,512 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:35:30,529 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:35:44,342 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:35:47,552 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:36:04,592 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:36:21,648 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:36:38,659 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:36:55,698 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:37:12,718 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:37:29,736 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:37:46,752 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:37:48,932 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:38:03,797 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:38:20,824 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:38:37,865 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:38:54,893 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:39:11,922 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:39:28,947 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:39:45,968 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:39:52,328 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:40:03,006 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:40:20,016 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:40:37,047 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:40:54,089 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:41:11,125 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:41:28,159 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:41:45,218 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:41:54,186 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:42:02,258 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:42:19,287 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:42:36,315 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:42:53,340 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:43:10,358 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:43:27,384 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:43:44,405 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:43:58,779 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:44:01,435 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:44:18,488 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:44:35,528 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:44:52,566 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:45:09,594 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:45:26,626 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:45:43,659 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:46:00,626 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:46:00,673 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:46:17,703 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:46:34,735 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:46:51,761 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:47:08,805 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:47:25,842 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:47:42,883 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:47:59,912 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:48:05,249 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:48:16,929 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:48:33,964 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:48:50,986 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:49:08,011 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:49:25,038 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:49:42,059 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:49:59,087 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:50:08,793 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:50:16,112 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:50:33,148 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:50:50,170 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:51:07,207 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:51:24,237 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:51:41,289 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:51:58,310 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:52:12,310 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:52:15,352 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:52:32,382 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:52:49,405 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:53:06,437 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:53:23,491 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:53:40,520 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:53:57,553 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:54:14,577 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:54:16,837 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:54:31,599 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:54:48,629 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:55:05,655 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:55:22,693 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:55:39,718 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:55:56,763 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:56:13,798 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:56:18,772 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:56:30,834 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:56:47,859 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:57:04,883 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:57:21,915 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:57:38,944 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:57:55,976 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:58:13,014 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:58:23,358 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-28 23:58:30,049 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:58:47,097 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:59:04,119 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:59:21,162 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:59:38,205 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-28 23:59:55,244 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:00:12,277 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:00:26,854 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:00:29,303 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:00:46,322 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:01:03,362 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:01:20,384 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:01:37,404 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:01:54,431 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:02:11,464 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:02:28,482 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:02:28,859 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:02:45,504 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:03:02,528 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:03:19,565 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:03:36,584 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:03:53,601 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:04:10,629 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:04:27,665 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:04:33,451 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:04:44,706 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:05:01,746 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:05:18,769 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:05:35,798 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:05:52,822 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:06:09,861 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:06:26,891 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:06:35,295 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:06:43,945 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:07:00,967 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:07:18,005 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:07:35,055 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:07:52,069 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:08:09,099 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:08:26,134 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:08:38,856 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:08:43,176 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:09:00,187 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:09:17,218 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:09:34,241 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:09:51,283 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:10:08,300 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:10:25,327 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:10:42,275 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:10:42,369 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:10:59,405 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:11:16,458 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:11:33,499 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:11:50,531 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:12:07,570 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:12:24,584 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:12:41,613 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:12:46,814 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:12:58,640 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:13:15,683 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:13:32,705 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:13:49,718 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:14:06,760 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:14:23,799 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:14:40,831 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:14:48,796 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:14:57,867 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:15:14,883 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:15:31,918 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:15:48,956 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:16:05,986 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:16:23,035 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:16:40,063 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:16:52,224 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:16:57,086 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:17:14,123 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:17:31,155 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:17:48,162 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:18:05,189 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:18:22,215 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:18:39,236 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:18:56,278 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:18:56,905 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:19:13,314 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:19:30,340 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:19:47,361 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:20:04,385 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:20:21,403 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:20:38,426 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:20:55,448 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:20:58,710 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:21:12,491 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:21:29,531 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:21:46,568 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:22:03,595 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:22:20,613 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:22:37,646 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:22:54,688 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:23:03,369 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:23:11,729 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:23:28,747 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:23:45,775 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:24:02,789 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:24:19,823 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:24:36,863 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:24:53,915 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:25:05,225 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:25:10,955 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:25:27,996 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:25:45,015 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:26:02,051 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:26:19,077 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:26:36,113 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:26:53,150 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:27:08,763 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:27:10,181 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:27:27,225 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:27:44,264 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:28:01,299 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:28:18,368 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:28:35,388 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:28:52,428 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:29:09,462 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:29:13,295 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:29:26,509 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:29:43,548 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:30:00,570 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:30:17,612 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:30:34,636 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:30:51,664 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:31:08,703 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:31:16,890 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:31:25,750 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:31:42,783 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:31:59,805 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:32:16,837 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:32:33,874 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:32:50,918 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:33:07,956 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:33:18,642 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:33:24,987 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:33:42,022 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:33:59,052 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:34:16,079 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:34:33,112 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:34:50,158 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:35:07,187 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:35:20,606 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:35:24,217 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:35:41,240 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:35:58,268 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:36:15,298 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:36:32,338 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:36:49,373 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:37:06,402 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:37:23,430 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:37:25,236 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:37:40,466 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:37:57,500 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:38:14,528 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:38:31,566 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:38:48,596 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:39:05,632 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:39:22,650 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:39:28,724 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:39:39,701 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:39:56,738 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:40:13,755 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:40:30,784 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:40:47,820 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:41:04,847 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:41:21,870 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:41:30,697 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:41:38,897 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:41:55,917 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:42:12,952 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:42:29,979 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:42:47,005 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:43:04,046 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:43:21,086 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:43:34,280 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:43:38,116 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:43:55,162 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:44:12,185 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:44:29,216 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:44:46,241 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:45:03,268 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:45:20,301 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:45:37,327 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:45:38,826 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:45:54,352 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:46:11,375 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:46:28,415 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:46:45,454 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:47:02,484 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:47:19,519 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:47:36,547 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:47:43,464 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:47:53,594 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:48:10,634 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:48:27,677 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:48:44,699 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:49:01,731 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:49:18,764 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:49:35,792 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:49:46,926 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:49:52,840 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:50:09,867 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:50:26,898 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:50:43,924 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:51:00,957 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:51:17,990 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:51:35,018 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:51:48,870 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:51:52,060 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:52:09,081 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:52:26,116 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:52:43,161 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:53:00,210 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:53:17,228 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:53:34,255 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:53:51,277 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:53:53,535 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:54:08,308 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:54:25,335 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:54:42,374 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:54:59,418 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:55:16,459 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:55:33,487 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:55:50,514 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:55:55,334 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:56:07,549 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:56:24,595 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:56:41,621 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:56:58,661 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:57:15,689 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:57:32,736 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:57:49,779 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:57:58,795 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 00:58:06,803 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:58:23,826 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:58:40,852 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:58:57,881 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:59:14,903 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:59:31,935 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 00:59:48,955 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:00:03,364 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:00:06,011 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:00:23,043 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:00:40,080 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:00:57,113 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:01:14,128 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:01:31,179 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:01:48,224 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:02:05,242 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:02:06,851 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:02:22,272 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:02:39,291 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:02:56,309 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:03:13,333 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:03:30,349 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:03:47,381 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:04:04,418 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:04:08,839 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:04:21,449 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:04:38,475 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:04:55,505 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:05:12,520 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:05:29,550 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:05:46,605 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:06:03,643 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:06:13,458 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:06:20,681 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:06:37,701 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:06:54,738 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:07:11,770 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:07:28,786 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:07:45,844 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:08:02,884 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:08:16,991 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:08:19,924 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:08:36,957 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:08:53,989 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:09:11,023 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:09:28,056 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:09:45,099 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:10:02,125 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:10:18,945 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:10:19,150 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:10:36,173 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:10:53,226 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:11:10,265 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:11:27,303 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:11:44,356 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:12:01,387 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:12:18,402 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:12:22,351 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:12:35,431 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:12:52,461 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:13:09,492 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:13:26,519 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:13:43,544 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:14:00,582 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:14:17,604 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:14:26,853 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:14:34,622 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:14:51,649 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:15:08,692 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:15:25,724 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:15:42,751 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:15:59,799 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:16:16,852 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:16:28,795 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:16:33,867 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:16:50,896 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:17:07,944 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:17:24,997 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:17:42,026 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:17:59,050 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:18:16,078 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:18:32,277 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:18:33,107 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:18:50,146 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:19:07,177 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:19:24,209 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:19:41,251 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:19:58,287 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:20:15,311 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:20:32,335 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:20:34,145 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:20:49,364 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:21:06,384 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:21:23,392 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:21:40,434 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:21:57,479 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:22:14,499 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:22:31,539 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:22:38,645 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:22:48,566 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:23:05,615 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:23:22,642 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:23:39,666 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:23:56,712 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:24:13,731 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:24:30,781 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:24:43,310 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:24:47,815 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:25:04,869 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:25:21,914 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:25:38,964 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:25:56,014 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:26:13,044 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:26:30,079 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:26:46,833 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:26:47,114 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:27:04,140 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:27:21,162 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:27:38,204 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:27:55,227 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:28:12,254 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:28:29,269 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:28:46,289 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:28:48,718 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:29:03,351 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:29:20,384 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:29:37,409 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:29:54,430 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:30:11,445 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:30:28,479 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:30:45,529 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:30:50,672 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:31:02,548 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:31:19,568 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:31:36,628 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:31:53,676 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:32:10,709 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:32:27,747 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:32:44,790 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:32:55,334 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:33:01,818 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:33:18,850 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:33:35,884 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:33:52,917 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:34:09,944 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:34:26,997 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:34:44,039 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:34:58,832 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:35:01,079 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:35:18,112 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:35:35,137 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:35:52,168 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:36:09,194 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:36:26,232 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:36:43,260 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:37:00,286 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:37:03,369 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:37:17,320 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:37:34,367 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:37:51,416 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:38:08,450 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:38:25,494 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:38:42,514 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:38:59,551 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:39:05,282 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:39:16,587 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:39:33,634 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:39:50,658 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:40:07,696 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:40:24,733 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:40:41,783 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:40:58,814 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:41:08,758 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:41:15,846 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:41:32,876 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:41:49,894 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:42:06,926 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:42:23,971 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:42:41,009 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:42:58,039 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:43:12,246 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:43:15,074 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:43:32,097 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:43:49,130 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:44:06,174 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:44:23,224 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:44:40,272 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:44:57,296 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:45:14,199 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:45:14,324 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:45:31,343 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:45:48,372 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:46:05,407 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:46:22,446 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:46:39,480 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:46:56,518 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:47:13,552 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:47:18,867 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:47:30,585 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:47:47,607 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:48:04,626 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:48:21,654 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:48:38,695 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:48:55,726 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:49:12,762 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:49:20,723 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:49:29,791 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:49:46,821 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:50:03,851 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:50:20,887 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:50:37,898 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:50:54,937 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:51:11,961 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:51:24,282 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:51:28,980 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:51:46,006 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:52:03,045 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:52:20,082 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:52:37,107 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:52:54,132 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:53:11,169 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:53:28,208 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:53:28,918 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:53:45,254 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:54:02,317 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:54:19,332 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:54:36,365 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:54:53,415 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:55:10,429 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:55:27,466 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:55:32,417 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:55:44,513 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:56:01,538 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:56:18,566 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:56:35,593 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:56:52,615 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:57:09,648 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:57:26,674 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:57:34,328 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:57:43,706 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:58:00,722 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:58:17,739 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:58:34,769 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:58:51,808 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:59:08,836 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:59:25,863 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:59:38,787 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 01:59:42,882 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 01:59:59,922 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:00:16,985 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:00:34,049 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:00:51,076 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:01:08,105 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:01:25,140 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:01:42,183 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:01:43,315 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:01:59,217 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:02:16,246 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:02:33,296 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:02:50,312 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:03:07,373 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:03:24,396 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:03:41,424 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:03:46,750 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:03:58,447 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:04:15,490 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:04:32,543 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:04:49,570 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:05:06,601 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:05:23,649 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:05:40,685 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:05:48,623 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:05:57,730 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:06:14,768 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:06:31,799 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:06:48,843 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:07:05,888 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:07:22,929 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:07:39,964 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:07:52,216 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:07:57,005 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:08:14,047 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:08:31,078 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:08:48,113 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:09:05,149 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:09:22,193 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:09:39,225 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:09:54,118 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:09:56,261 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:10:13,291 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:10:30,350 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:10:47,382 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:11:04,416 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:11:21,455 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:11:38,493 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:11:55,518 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:11:58,606 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:12:12,545 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:12:29,582 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:12:46,616 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:13:03,663 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:13:20,711 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:13:37,746 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:13:54,777 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:14:00,551 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:14:11,826 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:14:28,861 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:14:45,916 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:15:02,953 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:15:19,999 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:15:37,035 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:15:54,080 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:16:05,065 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:16:11,126 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:16:28,186 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:16:45,233 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:17:02,275 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:17:19,310 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:17:36,345 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:17:53,369 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:18:08,533 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:18:10,421 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:18:27,457 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:18:44,487 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:19:01,538 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:19:18,569 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:19:35,612 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:19:52,662 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:20:09,686 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:20:10,533 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:20:26,730 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:20:43,761 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:21:00,803 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:21:17,835 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:21:34,875 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:21:51,909 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:22:08,945 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:22:14,081 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:22:25,982 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:22:43,002 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:23:00,036 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:23:17,069 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:23:34,114 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:23:51,143 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:24:08,185 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:24:18,660 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:24:25,218 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:24:42,258 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:24:59,291 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:25:16,320 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:25:33,349 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:25:50,376 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:26:07,409 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:26:20,617 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:26:24,453 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:26:41,504 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:26:58,526 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:27:15,570 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:27:32,608 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:27:49,638 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:28:06,669 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:28:23,687 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:28:24,060 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:28:40,706 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:28:57,736 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:29:14,774 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:29:31,813 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:29:48,856 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:30:05,897 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:30:22,950 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:30:28,721 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:30:39,974 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:30:57,014 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:31:14,039 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:31:31,069 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:31:48,108 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:32:05,128 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:32:22,174 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:32:32,190 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:32:39,191 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:32:56,233 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:33:13,276 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:33:30,307 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:33:47,350 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:34:04,383 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:34:21,432 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:34:36,713 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:34:38,472 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:34:55,501 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:35:12,538 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:35:29,574 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:35:46,608 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:36:03,636 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:36:20,662 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:36:37,687 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:36:38,634 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:36:54,707 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:37:11,737 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:37:28,790 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:37:45,806 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:38:02,844 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:38:19,872 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:38:36,897 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:38:43,274 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:38:53,915 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:39:10,948 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:39:27,990 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:39:45,018 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:40:02,050 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:40:19,070 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:40:36,094 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:40:46,689 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:40:53,123 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:41:10,165 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:41:27,187 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:41:44,224 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:42:01,264 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:42:18,298 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:42:35,319 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:42:48,609 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:42:52,345 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:43:09,371 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:43:26,416 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:43:43,444 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:44:00,483 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:44:17,527 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:44:34,572 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:44:51,602 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:44:53,202 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:45:08,632 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:45:25,662 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:45:42,699 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:45:59,749 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:46:16,785 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:46:33,831 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:46:50,892 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:46:56,800 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:47:07,906 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:47:24,931 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:47:41,983 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:47:59,020 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:48:16,066 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:48:33,108 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:48:50,154 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:48:58,628 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:49:07,169 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:49:24,218 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:49:41,236 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:49:58,271 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:50:15,315 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:50:32,340 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:50:49,375 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:51:03,094 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:51:06,422 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:51:23,445 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:51:40,492 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:51:57,522 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:52:14,548 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:52:31,569 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:52:48,603 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:53:05,060 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:53:05,624 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:53:22,651 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:53:39,684 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:53:56,718 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:54:13,752 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:54:30,784 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:54:47,822 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:55:04,847 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:55:08,589 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:55:21,874 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:55:38,904 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:55:55,933 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:56:12,959 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:56:30,005 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:56:47,041 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:57:04,091 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:57:12,018 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:57:21,121 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:57:38,154 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:57:55,192 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:58:12,234 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:58:29,256 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:58:46,297 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:59:03,337 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:59:13,958 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 02:59:20,365 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:59:37,396 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 02:59:54,425 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:00:11,457 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:00:28,508 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:00:45,532 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:01:02,559 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:01:18,450 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 03:01:19,585 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:01:36,622 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:01:53,660 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:02:10,699 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:02:27,731 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:02:44,765 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:03:01,807 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:03:18,843 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:03:21,997 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 03:03:35,869 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:03:52,924 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:04:09,945 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:04:26,971 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:04:44,004 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:05:01,053 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:05:18,090 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:05:26,590 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 03:05:35,113 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:05:52,130 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:06:09,154 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:06:26,175 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:06:43,187 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:07:00,206 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:07:17,235 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:07:28,501 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 03:07:34,265 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:07:51,285 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:08:08,328 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:08:25,351 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:08:42,380 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:08:59,442 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:09:16,487 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:09:33,141 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 03:09:33,520 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:09:50,567 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:10:07,615 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:10:24,653 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:10:41,698 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:10:58,734 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:11:15,771 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:11:32,798 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:11:36,613 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 03:11:49,820 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:12:06,854 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:12:23,876 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:12:40,908 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:12:57,947 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:13:14,979 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:13:32,008 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:13:38,543 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 03:13:49,065 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:14:06,100 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:14:23,131 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:14:40,161 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:14:57,187 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:15:14,213 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:15:31,245 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:15:43,164 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 03:15:48,280 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:16:05,330 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:16:22,371 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:16:39,425 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:16:56,470 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:17:13,498 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:17:30,523 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:17:46,538 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 03:17:47,547 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:18:04,582 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:18:21,614 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:18:38,646 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:18:55,675 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:19:12,704 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:19:29,733 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:19:46,771 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:19:48,483 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 03:20:03,809 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:20:20,846 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:20:37,882 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:20:54,927 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:21:11,953 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:21:28,995 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:21:46,012 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:21:53,102 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 03:22:03,066 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:22:20,098 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:22:37,132 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:22:54,160 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:23:11,197 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:23:28,232 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:23:45,272 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:23:54,939 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 03:24:02,300 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:24:19,347 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:24:36,394 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:24:53,429 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:25:10,482 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:25:27,530 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:25:44,557 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:25:58,433 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 03:26:01,577 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:26:18,633 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:26:35,671 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:26:52,708 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:27:09,730 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:27:26,775 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:27:43,819 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:28:00,841 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:28:02,989 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 03:28:17,890 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:28:34,930 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:28:51,973 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:29:09,016 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:29:26,043 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:29:43,079 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:30:00,098 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:30:04,859 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 03:30:17,126 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:30:34,157 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:30:51,188 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:31:08,201 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:31:25,234 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:31:42,251 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:31:59,278 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:32:08,383 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 03:32:16,296 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:32:33,313 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:32:50,342 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:33:07,368 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:33:24,409 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:33:41,431 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:33:58,461 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:34:12,931 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 03:34:15,496 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:34:32,521 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:34:49,545 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:35:06,585 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:35:23,614 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 03:35:40,642 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 12:02:27,519 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 12:02:44,551 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 12:03:01,594 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 12:03:18,631 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 12:03:35,678 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 12:03:52,713 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 12:03:59,764 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 12:04:09,755 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 12:04:26,792 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 12:04:43,842 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 12:05:00,907 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 12:05:17,972 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 12:05:35,008 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 12:05:52,045 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 12:06:03,235 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 12:06:09,094 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 12:06:26,149 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 12:06:43,181 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 12:07:00,224 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 12:07:17,252 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 12:07:34,301 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 12:07:51,337 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 12:08:05,079 WARNING Local API callback failed: Cannot connect to host 127.0.0.1:8787 ssl:default [The remote computer refused the network connection]
+2026-09-29 12:08:08,390 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 12:08:25,434 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 12:08:42,455 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 12:08:59,495 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-29 12:09:07,231 INFO NewsTicker stopped
