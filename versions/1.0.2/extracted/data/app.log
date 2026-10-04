@@ -1,0 +1,17 @@
+2026-09-24 22:09:34,070 INFO NewsTicker 1.0.2 started on 127.0.0.1:18770
+2026-09-24 22:13:34,354 INFO NewsTicker stopped
+2026-09-24 22:13:40,729 INFO NewsTicker 1.0.2 started on 127.0.0.1:18770
+2026-09-24 22:17:01,249 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-24 22:17:05,284 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-24 22:17:29,692 INFO Streamer.bot chat reply skipped because the connection is not authenticated
+2026-09-24 22:50:39,906 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-24 22:50:43,932 WARNING Streamer.bot connection unavailable: ClientConnectorError
+2026-09-24 22:50:47,947 WARNING Streamer.bot connection unavailable: WSMessageTypeError
+2026-09-24 22:50:55,977 WARNING Streamer.bot connection unavailable: WSMessageTypeError
+2026-09-24 22:51:10,987 WARNING Streamer.bot connection unavailable: WSMessageTypeError
+2026-09-24 22:51:19,355 WARNING Streamer.bot connection unavailable: WSMessageTypeError
+2026-09-24 22:51:20,371 WARNING Streamer.bot connection unavailable: WSMessageTypeError
+2026-09-24 22:51:22,383 WARNING Streamer.bot connection unavailable: WSMessageTypeError
+2026-09-24 23:23:39,058 INFO NewsTicker stopped
+2026-09-24 23:53:39,245 INFO NewsTicker 1.0.2 started on 127.0.0.1:18770
+2026-09-24 23:53:43,709 INFO NewsTicker stopped

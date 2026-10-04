@@ -1,0 +1,24 @@
+NewsTicker 1.0.2
+Build date: 2026-09-25
+Target: Windows 10/11 x64
+Local server: Python 3.13.15 embeddable runtime + aiohttp
+OBS canvas: 1920 x 1080
+Default control URL: http://127.0.0.1:18770/
+Default overlay URL: http://127.0.0.1:18770/overlay
+
+The small NewsTicker.exe bootstrap starts runtime\pythonw.exe with
+app\server.py and no console window. Start-Diagnostics.cmd starts the same
+server with a visible console.
+
+Validation performed:
+- Python syntax compilation
+- JavaScript syntax checks
+- 11 Python unit/integration tests
+- overlay logic assertions
+- mock Streamer.bot end-to-end command/reply check
+- complete Windows runtime/package structure check
+- ZIP integrity and checksum verification
+
+Streamer.bot integration follows its documented WebSocket Hello/
+Authenticate/Subscribe flow, subscribes to Twitch.ChatMessage, and uses
+SendMessage for moderator command replies.
