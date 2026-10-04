@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>NewsTicker Overlay</title>
+  <link rel="stylesheet" href="/static/overlay.css?v=1.0.5">
+</head>
+<body>
+  <main id="stage" class="stage" aria-live="polite">
+    <section class="lower-third">
+      <div class="breaking-block">
+        <div class="breaking-grid" aria-hidden="true"></div>
+        <div id="breakingLabel" class="breaking-label">BREAKING NEWS</div>
+        <div class="breaking-sheen" aria-hidden="true"></div>
+      </div>
+      <div class="ticker-block">
+        <div class="accent-line" aria-hidden="true"></div>
+        <div class="ticker-text-area">
+          <div id="messageWindow" class="message-window">
+            <div id="message" class="message">Your next headline will appear here.</div>
+          </div>
+        </div>
+        <div id="counterShell" class="counter-shell">
+          <div id="counterCube" class="counter-cube">
+            <div class="counter-face clock-face">
+              <span>LOCAL TIME</span>
+              <time id="clock"></time>
+            </div>
+            <div class="counter-face days-face">
+              <span>DAYS LIVE:</span>
+              <strong id="daysLive">1</strong>
+            </div>
+          </div>
+        </div>
+        <div class="ticker-sheen" aria-hidden="true"></div>
+      </div>
+    </section>
+  </main>
+  <script src="/static/overlay.js?v=1.0.5"></script>
+</body>
+</html>
