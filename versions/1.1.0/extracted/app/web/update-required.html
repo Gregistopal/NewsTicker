@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>NewsTicker Update Ready</title>
+  <style>
+    :root { color-scheme: dark; font-family: "Segoe UI", Arial, sans-serif; }
+    * { box-sizing: border-box; }
+    body {
+      min-height: 100vh; margin: 0; display: grid; place-items: center; padding: 28px;
+      color: #f4f7fb; background: radial-gradient(circle at 50% 0, #1a3553, #07101a 58%);
+    }
+    main {
+      width: min(620px, 100%); padding: 34px; border: 1px solid #294763; border-radius: 18px;
+      background: rgb(10 22 34 / .94); box-shadow: 0 22px 70px rgb(0 0 0 / .45);
+    }
+    .brand { display: flex; align-items: center; gap: 14px; margin-bottom: 26px; }
+    .mark {
+      display: grid; place-items: center; width: 48px; height: 48px; border-radius: 12px;
+      color: white; background: #d71920; font-weight: 900; letter-spacing: -.04em;
+    }
+    .eyebrow { margin: 0 0 3px; color: #77bdf5; font-size: 12px; font-weight: 800; letter-spacing: .14em; }
+    h1 { margin: 0; font-size: 26px; }
+    .versions { display: grid; grid-template-columns: 1fr auto 1fr; gap: 14px; align-items: center; margin: 24px 0; }
+    .version { padding: 16px; border: 1px solid #294763; border-radius: 12px; background: #0d1b29; text-align: center; }
+    .version span { display: block; margin-bottom: 5px; color: #91a6b9; font-size: 11px; font-weight: 800; letter-spacing: .1em; }
+    .version strong { font-size: 22px; }
+    .arrow { color: #ffd447; font-size: 22px; }
+    p, li { color: #b9c7d4; line-height: 1.55; }
+    ol { margin: 20px 0 26px; padding-left: 23px; }
+    li + li { margin-top: 7px; }
+    a {
+      display: inline-flex; min-height: 43px; align-items: center; justify-content: center; padding: 0 18px;
+      border-radius: 9px; color: white; background: #1877c9; font-weight: 800; text-decoration: none;
+    }
+    small { display: block; margin-top: 18px; color: #71869a; }
+  </style>
+</head>
+<body>
+  <main>
+    <div class="brand"><div class="mark">NT</div><div><p class="eyebrow">LOCAL BROADCAST GRAPHICS</p><h1>NewsTicker update ready</h1></div></div>
+    <p>NewsTicker is already running, so the new copy has not replaced the active one yet.</p>
+    <div class="versions">
+      <div class="version"><span>CURRENTLY RUNNING</span><strong id="runningVersion">Older version</strong></div>
+      <div class="arrow">→</div>
+      <div class="version"><span>READY TO START</span><strong id="newVersion">New version</strong></div>
+    </div>
+    <ol>
+      <li>Open the currently running dashboard below.</li>
+      <li>Click <strong>Quit</strong> in its top-right corner.</li>
+      <li>Launch the new <strong>NewsTicker.exe</strong> again.</li>
+    </ol>
+    <a id="openDashboard" href="http://127.0.0.1:18770/">Open running dashboard</a>
+    <small>This page is part of NewsTicker and appears only to prevent two versions from running on the same local port.</small>
+  </main>
+  <script>
+    const values = new URLSearchParams(location.search);
+    const running = values.get('running') || 'Older version';
+    const ready = values.get('new') || 'New version';
+    document.getElementById('runningVersion').textContent = /^\d/.test(running) ? `v${running}` : running;
+    document.getElementById('newVersion').textContent = /^\d/.test(ready) ? `v${ready}` : ready;
+    const port = /^\d+$/.test(values.get('port') || '') ? values.get('port') : '18770';
+    document.getElementById('openDashboard').href = `http://127.0.0.1:${port}/`;
+  </script>
+</body>
+</html>
