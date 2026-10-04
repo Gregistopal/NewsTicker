@@ -1,0 +1,8 @@
+2026-09-24 21:27:38,348 INFO NewsTicker 1.0.0 started on 127.0.0.1:18770
+2026-09-24 21:29:47,701 ERROR Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "asyncio\events.py", line 89, in _run
+  File "asyncio\proactor_events.py", line 166, in _call_connection_lost
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-09-24 21:52:09,361 INFO NewsTicker stopped
