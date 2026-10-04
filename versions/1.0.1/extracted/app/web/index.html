@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>NewsTicker Control Room</title>
+  <link rel="stylesheet" href="/static/control.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand-lockup">
+      <div class="brand-mark"><span>NT</span></div>
+      <div>
+        <p class="eyebrow">LOCAL BROADCAST GRAPHICS</p>
+        <h1>NewsTicker <span>Control Room</span></h1>
+      </div>
+    </div>
+    <div class="top-actions">
+      <div id="saveState" class="save-state">All changes saved</div>
+      <button id="hideButton" class="button ghost" type="button">Hide now</button>
+      <button id="showNextButton" class="button live" type="button"><span class="play-icon">▶</span> Show next</button>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="hero-grid">
+      <article class="preview-card panel">
+        <div class="panel-heading">
+          <div>
+            <p class="section-kicker">PROGRAM PREVIEW</p>
+            <h2>1920 × 1080 canvas</h2>
+          </div>
+          <span id="onAirBadge" class="on-air-badge">STANDBY</span>
+        </div>
+        <div class="monitor-frame">
+          <iframe id="previewFrame" title="News ticker preview" src="/overlay?preview=1"></iframe>
+          <div class="monitor-label">PREVIEW</div>
+        </div>
+        <p class="help compact">The preview uses the exact OBS layout. Saved style changes appear here immediately; live show/hide commands also affect OBS.</p>
+      </article>
+
+      <aside class="status-stack">
+        <article class="panel status-panel">
+          <div class="panel-heading tight">
+            <div>
+              <p class="section-kicker">SYSTEM STATUS</p>
+              <h2>Connections</h2>
+            </div>
+            <span id="versionBadge" class="version-badge">v1.0.1</span>
+          </div>
+          <div class="status-row">
+            <span class="status-icon"><i id="appDot" class="dot online"></i></span>
+            <div><strong>Local overlay</strong><small id="appStatus">Running</small></div>
+          </div>
+          <div class="status-row">
+            <span class="status-icon"><i id="streamerDot" class="dot"></i></span>
+            <div><strong>Streamer.bot</strong><small id="streamerStatus">Connecting…</small></div>
+          </div>
+          <div class="status-row">
+            <span class="status-icon clock-symbol">◷</span>
+            <div><strong>Next automatic headline</strong><small id="nextStatus">Calculating…</small></div>
+          </div>
+        </article>
+
+        <article class="panel source-panel">
+          <p class="section-kicker">OBS BROWSER SOURCE</p>
+          <div class="url-copy-row">
+            <code id="overlayUrl">http://127.0.0.1:18770/overlay</code>
+            <button id="copyUrl" class="icon-button" type="button" title="Copy URL">Copy</button>
+          </div>
+          <div class="source-specs">
+            <span>Width <b>1920</b></span>
+            <span>Height <b>1080</b></span>
+            <span>FPS <b>30+</b></span>
+          </div>
+        </article>
+      </aside>
+    </section>
+
+    <nav class="tabs" aria-label="Control sections">
+      <button class="tab active" data-tab="content" type="button">Headlines</button>
+      <button class="tab" data-tab="timing" type="button">Timing &amp; Streamer.bot</button>
+      <button class="tab" data-tab="appearance" type="button">Appearance</button>
+      <button class="tab" data-tab="system" type="button">System</button>
+    </nav>
+
+    <form id="settingsForm">
+      <section id="tab-content" class="tab-page active">
+        <div class="two-column content-grid">
+          <article class="panel editor-panel">
+            <div class="panel-heading">
+              <div>
+                <p class="section-kicker">ROTATION</p>
+                <h2>Saved headlines</h2>
+              </div>
+              <button id="addMessage" class="button secondary small" type="button">+ Add headline</button>
+            </div>
+            <p class="help">Enabled headlines cycle from top to bottom. Drag-free arrow controls make the saved order explicit.</p>
+            <div id="messageList" class="message-list"></div>
+            <div id="emptyMessages" class="empty-state" hidden>
+              <strong>No headlines yet</strong>
+              <span>Add one to enable automatic rotation.</span>
+            </div>
+          </article>
+
+          <aside class="panel quick-panel">
+            <p class="section-kicker">ON-AIR CONTROL</p>
+            <h2>Run a one-off headline</h2>
+            <label class="field full">
+              <span>Custom message</span>
+              <textarea id="customHeadline" rows="5" maxlength="320" placeholder="Type an unsaved headline to show right now…"></textarea>
+              <small><span id="customCount">0</span> / 320</small>
+            </label>
+            <button id="showCustom" class="button live full-button" type="button">Show custom headline</button>
+            <div class="divider"></div>
+            <div class="mini-stat">
+              <span>Currently on air</span>
+              <strong id="currentHeadline">Nothing — overlay is standing by</strong>
+            </div>
+            <div class="mini-stat">
+              <span>Last triggered by</span>
+              <strong id="lastTriggered">Not yet triggered</strong>
+            </div>
+          </aside>
+        </div>
+      </section>
+
+      <section id="tab-timing" class="tab-page">
+        <div class="two-column">
+          <article class="panel editor-panel">
+            <p class="section-kicker">AUTOMATIC ROTATION</p>
+            <h2>Timing</h2>
+            <label class="toggle-row">
+              <span><strong>Cycle headlines automatically</strong><small>Waits the configured interval after each headline closes.</small></span>
+              <input id="autoEnabled" type="checkbox"><i></i>
+            </label>
+            <div class="field-grid">
+              <label class="field"><span>Time hidden between headlines</span><div class="input-unit"><input id="intervalSeconds" type="number" min="5" max="86400"><b>seconds</b></div><small>Minimum 5 seconds</small></label>
+              <label class="field"><span>Minimum time ticker stays up</span><div class="input-unit"><input id="visibleSeconds" type="number" min="3" max="300"><b>seconds</b></div><small>A long crawl may extend this so its first item finishes</small></label>
+              <label class="field"><span>Entrance animation</span><div class="input-unit"><input id="enterMs" type="number" min="250" max="2000" step="50"><b>ms</b></div></label>
+              <label class="field"><span>Exit animation</span><div class="input-unit"><input id="exitMs" type="number" min="200" max="1500" step="50"><b>ms</b></div></label>
+            </div>
+          </article>
+
+          <article class="panel editor-panel">
+            <p class="section-kicker">MODERATOR COMMAND</p>
+            <h2>Streamer.bot WebSocket</h2>
+            <label class="toggle-row">
+              <span><strong>Listen for a Twitch chat command</strong><small>Only moderators and the broadcaster can trigger it.</small></span>
+              <input id="commandEnabled" type="checkbox"><i></i>
+            </label>
+            <div class="field-grid">
+              <label class="field full"><span>WebSocket address</span><input id="streamerUrl" type="text" maxlength="300" spellcheck="false" placeholder="ws://127.0.0.1:8080/"></label>
+              <label class="field"><span>Command</span><input id="command" type="text" maxlength="40" spellcheck="false" placeholder="!news"></label>
+              <label class="field"><span>WebSocket password</span><input id="streamerPassword" type="password" maxlength="300" autocomplete="new-password" placeholder="Leave blank to keep saved password"><small id="passwordHint">No password saved</small></label>
+            </div>
+            <label class="toggle-row subtle">
+              <span><strong>Allow custom text after the command</strong><small><code>!news A custom headline</code> shows that text. <code>!news 2</code> shows saved headline 2.</small></span>
+              <input id="allowCustomCommandText" type="checkbox"><i></i>
+            </label>
+            <p class="help"><strong>Moderator tools:</strong> <code>!news add &lt;text&gt;</code>, <code>!news delete &lt;number&gt;</code>, <code>!news list</code>, and <code>!news help</code>. Add/delete changes are saved immediately and Streamer.bot replies in Twitch chat.</p>
+            <label id="clearPasswordRow" class="check-row" hidden><input id="clearStreamerPassword" type="checkbox"> Clear the saved WebSocket password</label>
+          </article>
+        </div>
+      </section>
+
+      <section id="tab-appearance" class="tab-page">
+        <div class="appearance-layout">
+          <article class="panel editor-panel">
+            <div class="panel-heading">
+              <div><p class="section-kicker">TYPOGRAPHY</p><h2>Text</h2></div>
+              <button id="resetAppearance" class="button ghost small" type="button">Reset style</button>
+            </div>
+            <div class="field-grid">
+              <label class="field full"><span>Breaking label</span><input id="breakingLabel" type="text" maxlength="32"></label>
+              <label class="field"><span>Font family</span><select id="fontFamily"><option>Segoe UI</option><option>Arial</option><option>Verdana</option><option>Trebuchet MS</option><option>Tahoma</option><option>Georgia</option><option>Courier New</option><option>Impact</option></select></label>
+              <label class="field"><span>Font weight</span><select id="fontWeight"><option value="400">Regular</option><option value="600">Semibold</option><option value="700">Bold</option><option value="800">Extra bold</option><option value="900">Black</option></select></label>
+              <label class="field"><span>Message treatment</span><select id="messageMode"><option value="crawl">Continuous news crawl</option></select><small>Every saved and one-off item scrolls fully across the ticker.</small></label>
+              <label class="field"><span>Headline size</span><div class="range-line"><input id="fontSize" type="range" min="20" max="72"><output data-for="fontSize"></output></div></label>
+              <label class="field"><span>Kicker text</span><input id="kickerText" type="text" maxlength="32"></label>
+              <label class="field crawl-only"><span>Crawl speed</span><div class="range-line"><input id="crawlSpeed" type="range" min="40" max="500"><output data-for="crawlSpeed"></output></div></label>
+            </div>
+            <div class="toggle-grid">
+              <label class="toggle-row subtle"><span><strong>Show kicker</strong><small>Small line above the headline</small></span><input id="showKicker" type="checkbox"><i></i></label>
+              <label class="toggle-row subtle"><span><strong>Show clock</strong><small>Uses this PC's local time</small></span><input id="showClock" type="checkbox"><i></i></label>
+              <label class="toggle-row subtle"><span><strong>24-hour clock</strong><small>Otherwise uses AM/PM</small></span><input id="clock24Hour" type="checkbox"><i></i></label>
+              <label class="toggle-row subtle"><span><strong>Uppercase message</strong><small>Breaking label is always uppercase</small></span><input id="uppercaseMessage" type="checkbox"><i></i></label>
+              <label class="toggle-row subtle"><span><strong>Animated light sweep</strong><small>Plays during entrance</small></span><input id="shineEnabled" type="checkbox"><i></i></label>
+            </div>
+          </article>
+
+          <article class="panel editor-panel">
+            <p class="section-kicker">COLOR SYSTEM</p>
+            <h2>Palette</h2>
+            <div class="color-grid">
+              <label class="color-field"><input id="breakingBackground" type="color"><span><b>Breaking background</b><code data-color="breakingBackground"></code></span></label>
+              <label class="color-field"><input id="breakingText" type="color"><span><b>Breaking text</b><code data-color="breakingText"></code></span></label>
+              <label class="color-field"><input id="tickerBackground" type="color"><span><b>Ticker background</b><code data-color="tickerBackground"></code></span></label>
+              <label class="color-field"><input id="tickerText" type="color"><span><b>Ticker text</b><code data-color="tickerText"></code></span></label>
+              <label class="color-field"><input id="accentColor" type="color"><span><b>Accent line</b><code data-color="accentColor"></code></span></label>
+              <label class="color-field"><input id="mutedText" type="color"><span><b>Secondary text</b><code data-color="mutedText"></code></span></label>
+            </div>
+          </article>
+
+          <article class="panel editor-panel span-two">
+            <p class="section-kicker">GEOMETRY</p>
+            <h2>Size &amp; placement</h2>
+            <div class="slider-grid">
+              <label class="field"><span>Ticker height</span><div class="range-line"><input id="tickerHeight" type="range" min="64" max="150"><output data-for="tickerHeight"></output></div></label>
+              <label class="field"><span>Breaking block width</span><div class="range-line"><input id="labelWidth" type="range" min="190" max="420"><output data-for="labelWidth"></output></div></label>
+              <label class="field"><span>Bottom offset</span><div class="range-line"><input id="bottomOffset" type="range" min="0" max="260"><output data-for="bottomOffset"></output></div></label>
+              <label class="field"><span>Side margin</span><div class="range-line"><input id="sideMargin" type="range" min="0" max="260"><output data-for="sideMargin"></output></div></label>
+              <label class="field"><span>Corner radius</span><div class="range-line"><input id="cornerRadius" type="range" min="0" max="28"><output data-for="cornerRadius"></output></div></label>
+              <label class="field"><span>Background opacity</span><div class="range-line"><input id="tickerOpacity" type="range" min="0.35" max="1" step="0.01"><output data-for="tickerOpacity"></output></div></label>
+              <label class="field"><span>Shadow strength</span><div class="range-line"><input id="shadowStrength" type="range" min="0" max="1" step="0.01"><output data-for="shadowStrength"></output></div></label>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section id="tab-system" class="tab-page">
+        <div class="two-column">
+          <article class="panel editor-panel">
+            <p class="section-kicker">PORTABLE STORAGE</p>
+            <h2>Everything stays in this folder</h2>
+            <p class="body-copy">Settings, rolling logs, and the ten most recent configuration backups are stored in the <code>data</code> folder next to NewsTicker.exe. Copying the extracted app folder to another PC carries the setup with it.</p>
+            <div class="path-card"><span>Settings</span><code>data\settings.json</code></div>
+            <div class="path-card"><span>Backups</span><code>data\backups\</code></div>
+            <div class="path-card"><span>Log</span><code>data\app.log</code></div>
+          </article>
+          <article class="panel editor-panel danger-panel">
+            <p class="section-kicker">APPLICATION</p>
+            <h2>Stop the local server</h2>
+            <p class="body-copy">Closing this browser tab does not stop the ticker. Use this button when you are finished streaming.</p>
+            <button id="quitButton" class="button danger" type="button">Quit NewsTicker</button>
+            <p class="help">OBS will reconnect automatically the next time NewsTicker starts.</p>
+          </article>
+        </div>
+      </section>
+
+      <div class="save-dock">
+        <div><strong id="dockTitle">Configuration is up to date</strong><span id="dockDetail">Changes apply to the preview and OBS after saving.</span></div>
+        <button id="saveButton" class="button primary" type="submit">Save &amp; apply</button>
+      </div>
+    </form>
+  </main>
+
+  <div id="toast" class="toast" role="status"></div>
+  <script src="/static/control.js"></script>
+</body>
+</html>

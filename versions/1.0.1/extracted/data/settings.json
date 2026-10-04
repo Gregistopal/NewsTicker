@@ -1,0 +1,61 @@
+{
+  "layoutVersion": 2,
+  "serverPort": 18770,
+  "autoEnabled": true,
+  "intervalSeconds": 90,
+  "visibleSeconds": 12,
+  "commandEnabled": true,
+  "command": "!news",
+  "allowCustomCommandText": true,
+  "streamerUrl": "ws://127.0.0.1:8080/",
+  "streamerPassword": "",
+  "breakingLabel": "BREAKING NEWS",
+  "kickerText": "LIVE UPDATE",
+  "showKicker": true,
+  "showClock": true,
+  "clock24Hour": false,
+  "fontFamily": "Segoe UI",
+  "fontSize": 38,
+  "fontWeight": 700,
+  "messageMode": "crawl",
+  "crawlSpeed": 150,
+  "uppercaseMessage": false,
+  "tickerHeight": 92,
+  "labelWidth": 292,
+  "bottomOffset": 0,
+  "sideMargin": 0,
+  "cornerRadius": 0,
+  "tickerOpacity": 0.97,
+  "shadowStrength": 0.42,
+  "enterMs": 850,
+  "exitMs": 500,
+  "shineEnabled": true,
+  "breakingBackground": "#d71920",
+  "breakingText": "#ffffff",
+  "tickerBackground": "#091421",
+  "tickerText": "#f8fbff",
+  "accentColor": "#ffd447",
+  "mutedText": "#afbac8",
+  "messages": [
+    {
+      "id": "welcome",
+      "text": "Welcome to the stream — thanks for watching!",
+      "enabled": true
+    },
+    {
+      "id": "follow",
+      "text": "Follow the channel so you never miss the next broadcast.",
+      "enabled": true
+    },
+    {
+      "id": "socials",
+      "text": "Check the channel panels for community links and stream information.",
+      "enabled": true
+    },
+    {
+      "id": "fb1c3cb7869f42aa9f77e6cf746bbd0c",
+      "text": "test",
+      "enabled": true
+    }
+  ]
+}
